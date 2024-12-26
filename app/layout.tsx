@@ -1,4 +1,4 @@
-// export const dynamic = 'force-dynamic'   //to get the dynamic data in frontend ---> session cookies
+export const dynamic = 'force-dynamic'   //to get the dynamic data in frontend ---> session cookies
 
 import type { Metadata } from "next";
 import { Inter, IBM_Plex_Serif } from "next/font/google";
